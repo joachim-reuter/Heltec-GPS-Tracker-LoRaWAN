@@ -1,5 +1,5 @@
 # LoRaWAN GPS-Tracker – Empfänger
-
+![gps_lora_anzeige](./images/gps_lora_anzeige.jpg)
 ## Projektübersicht
 
 Dieser ESP32 dient als **Empfängerstation für einen GPS-Tracker**.
