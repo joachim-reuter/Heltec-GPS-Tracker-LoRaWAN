@@ -1,4 +1,5 @@
 # GPS-Tracker mit ESP32, GPS und LoRaWAN
+![gps_lora_tracker](./images/gps_lora_tracker.jpg)
 
 Ein kompakter GPS-Tracker auf Basis eines **Heltec Wireless Tracker** mit integriertem GPS-Modul und LoRaWAN-Anbindung.
 
